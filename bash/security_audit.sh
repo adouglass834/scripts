@@ -2,7 +2,7 @@
 
 
 # Replace with your token and chat_id 
-TOKEN="8014373097:AAH-2688xNO3LM71lV2xFgDqjM6L1ynvidk" 
+TOKEN="" 
 CHAT_ID="6637441831" 
 
 # Function to send Telegram messages 
